@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "weaponstore", "weaponstore.csproj", "{150478BB-2B95-47A4-84FC-730D3B1484E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{150478BB-2B95-47A4-84FC-730D3B1484E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{150478BB-2B95-47A4-84FC-730D3B1484E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{150478BB-2B95-47A4-84FC-730D3B1484E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{150478BB-2B95-47A4-84FC-730D3B1484E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF1F63E3-FFA7-4DF2-9C0C-F7961DC4D7B2}
+	EndGlobalSection
+EndGlobal
