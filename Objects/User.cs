@@ -6,5 +6,6 @@ namespace weaponstore.Objects
 {
     class User
     {
+    //
     }
 }
